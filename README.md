@@ -1,5 +1,5 @@
 # COVID_CONSUMPTION
-please use COVID_CONSUMPTION_febwho.R and load "paralleldata.csv", "feb_data.csv" and "plot_data_masked.csv" 
+Please use COVID_CONSUMPTION.R and load "paralleldata.csv", "feb_data.csv" and "plot_data_masked.csv" 
  for primary result of this paper.
 ## Install
 To run this code, open source software R (version 3.6.3) is available to download for free at https://www.r-project.org/
